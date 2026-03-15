@@ -1,0 +1,26 @@
+2026-03-15 19:30:09,813 - INFO - Amazon website opened successfully
+2026-03-15 19:30:21,946 - INFO - Successfully scraped Shampoo
+2026-03-15 19:30:31,007 - INFO - Successfully scraped Soap
+2026-03-15 19:30:40,272 - INFO - Successfully scraped Toothpaste
+2026-03-15 19:30:49,329 - INFO - Successfully scraped ToothBrush
+2026-03-15 19:30:58,971 - INFO - Successfully scraped Deodorant
+2026-03-15 19:31:09,229 - INFO - Successfully scraped Moisturizers
+2026-03-15 19:31:18,865 - INFO - Successfully scraped Facewash
+2026-03-15 19:31:28,321 - INFO - Successfully scraped hair oil
+2026-03-15 19:31:37,281 - INFO - Successfully scraped Sunscreens
+2026-03-15 19:31:44,125 - INFO - Successfully scraped speakers
+2026-03-15 19:31:52,686 - INFO - Successfully scraped watches
+2026-03-15 19:31:59,284 - INFO - Successfully scraped computer accessories
+2026-03-15 19:32:06,188 - INFO - Successfully scraped headphones
+2026-03-15 19:32:15,481 - INFO - Successfully scraped LED lights
+2026-03-15 19:32:25,380 - INFO - Successfully scraped Diapers
+2026-03-15 19:32:34,950 - INFO - Successfully scraped wipes
+2026-03-15 19:32:44,237 - INFO - Successfully scraped feeding bottles
+2026-03-15 19:32:54,024 - INFO - Successfully scraped baby lotions
+2026-03-15 19:33:02,652 - INFO - Successfully scraped gift sets
+2026-03-15 19:33:05,163 - INFO - Scraping completed
+2026-03-15 19:33:05,183 - INFO - JSON file saved successfully
+2026-03-15 19:33:05,404 - INFO - Database connected successfully
+2026-03-15 19:33:05,408 - INFO - Table checked/created
+2026-03-15 19:33:05,437 - INFO - Data inserted successfully
+2026-03-15 19:33:05,437 - INFO - Script finished successfully
